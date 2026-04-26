@@ -24,7 +24,7 @@ function App() {
     <Navbar/>
     <Header/>
 
-    {/* <Login/> */}
+    <Login/>
     <Register/>
     
     {/* <div className='contenido-principal'>
